@@ -1,8 +1,13 @@
 aaaaaaa
 
+<<<<<<< HEAD
 bbbbbbb
 
 ccccccc
 
 dddddddeeeeeeee
 
+=======
+成长为一个牛B的人
+bbbbbb
+>>>>>>> fenzhi1
